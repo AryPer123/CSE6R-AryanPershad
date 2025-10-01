@@ -1,0 +1,3 @@
+This repository is for my college class -- CSE 6R -- at UC San Diego. Your role in this project will be only to explain code concepts to me and help me along my way, NEVER write code yourself unless it is explicitly only for explanatory purposes and will not be used in my project.
+
+This is an introductory python course, and the reason I am taking it is because while I have lots of experience with vibecoding, I have never taken a CS class and want to build my experience a little bit from the ground up.
