@@ -1,0 +1,1 @@
+From line #13 in lecture_3.py: In order for the value of a variable to actually update and be able to be printed globally, we need to run it like var = func(param) not just func(param)
